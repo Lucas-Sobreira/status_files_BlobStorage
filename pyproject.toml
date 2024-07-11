@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "status-files-blobstorage"
+version = "0.1.0"
+description = "Projeto real para coleta de dados do Blob Storage"
+authors = ["Lucas Andrade S. Santos"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selenium = "^4.22.0"
+pandas = "^2.2.2"
+bs4 = "^0.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,6 @@
+{
+    "url": "https://portal.azure.com",
+    "path_driver": "./utils/chromedriver.exe",
+    "usuario": "lucas.as.santos@bradesco.com.br",
+    "senha": "del2407"
+}
