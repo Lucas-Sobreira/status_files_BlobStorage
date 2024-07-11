@@ -5,3 +5,7 @@ Foi solicitado para que fosse levantado a lista de arquivos "frios" (cold files)
 O motivo desse levantamento é justamente por que os arquivos estavam parados no Blob Storage, não sendo consumidos, assim custando para serem mantidos armazenados. 
 
 Esses arquivos fazem parte de um projeto de migração de dados do ambiente On Premises para o ambiente Cloud. 
+
+## Importante! 
+
+Baixar a versão atualizada do chromedriver
